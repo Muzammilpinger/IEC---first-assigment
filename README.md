@@ -22,10 +22,7 @@ The idea is to send the same question to both models and see how they respond. T
 First, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/
-Muzammilpinger/a1-cost-tracker.git
-cd a1-cost-tracker
-uv sync
+git clone https://github.com/Muzammilpinger/IEC---first-assigment.git
 ```
 
 Create a `.env` file in the project folder and add your API keys:
