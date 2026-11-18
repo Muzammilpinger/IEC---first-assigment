@@ -1,0 +1,22 @@
+[
+  {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "reply": "Python is a general-purpose language primarily used for backend tasks like data science, machine learning, and automation, whereas JavaScript is primarily used for frontend and backend web development to make interactive web pages.",
+    "input_tokens": 12,
+    "output_tokens": 39,
+    "input_price_per_m": 0.3,
+    "output_price_per_m": 2.5,
+    "cost_usd": 0.00010109999999999999
+  },
+  {
+    "provider": "groq",
+    "model": "openai/gpt-oss-20b",
+    "reply": "Python is a high\u2011level, general\u2011purpose language known for its readability and extensive standard library, whereas JavaScript is a lightweight, prototype\u2011based, event\u2011driven language primarily used for dynamic web content in browsers.",
+    "input_tokens": 83,
+    "output_tokens": 264,
+    "input_price_per_m": 0.075,
+    "output_price_per_m": 0.3,
+    "cost_usd": 8.5425e-05
+  }
+]

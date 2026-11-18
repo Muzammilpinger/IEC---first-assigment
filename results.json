@@ -1,0 +1,22 @@
+[
+  {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "reply": "Token usage measures the number of text fragments processed by an AI model, which determines both the cost and the context length of your interaction.",
+    "input_tokens": 10,
+    "output_tokens": 27,
+    "input_price_per_m": 0.3,
+    "output_price_per_m": 2.5,
+    "cost_usd": 7.05e-05
+  },
+  {
+    "provider": "groq",
+    "model": "openai/gpt-oss-20b",
+    "reply": "Tokens are the smallest units of text the model processes, each representing a word or part of a word.",
+    "input_tokens": 80,
+    "output_tokens": 128,
+    "input_price_per_m": 0.075,
+    "output_price_per_m": 0.3,
+    "cost_usd": 4.44e-05
+  }
+]
