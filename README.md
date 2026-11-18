@@ -22,7 +22,8 @@ The idea is to send the same question to both models and see how they respond. T
 First, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/a1-cost-tracker.git
+git clone https://github.com/
+Muzammilpinger/a1-cost-tracker.git
 cd a1-cost-tracker
 uv sync
 ```
